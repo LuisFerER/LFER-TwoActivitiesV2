@@ -1,4 +1,5 @@
 package com.example.twoactivities_V2;
+//Luis Fernando Escobedo Romero
 
 import androidx.appcompat.app.AppCompatActivity;
 
